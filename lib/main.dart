@@ -5,5 +5,6 @@ void main() {
   runApp(MaterialApp(
     home: HomePage(),
     title: 'Agenda Contatos',
+    debugShowCheckedModeBanner: false,
   ));
 }
